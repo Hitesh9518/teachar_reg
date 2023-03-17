@@ -1,0 +1,27 @@
+All task Must be in separate page 
+#1 - Insert data in Database by Form (Fields - Must be use All type field* in Forms) => Done
+#2 - Display data in table formate with Edit and Delete Button	=> Done
+#3 - Update data in Database by Form (Existing data in Form then Update) => Done
+#4 - Search data by Search Form (1. Serch by All Text type data and 2. By DOB)	=> Done
+#5 - Delete data on Click Delete (1. Hard Delete from Database), 2. soft Delete by Change Data Status [by 1 and 0])	=> Done
+#6 - Insert data in Database With PHP Validation	=> Done
+#7 - Update data in Database With PHP Validation	=> Done
+
+Deadline : 3-Mar-2023 before end of the day
+
+
+-----------------------------------------------------------------------------
+#### By Ajax #####
+#8 - Create State and City Filed Form which in data load by Ajax from Database (Then Insert and Update)
+(Ajax State , city Fields - Must be use in all forms)	=> Done
+#9 - Insert data in Database by Ajax	=> Done
+#10 - Insert data in Database by Ajax With PHP Validation	=> Done
+#11 - Update data in Database by Form using Ajax with PHP validaton	=> Done
+#12 - Delete (Soft delete) data in by Ajax	=> Done
+#13 - Search data from Database by Ajax	=> Done
+
+Deadline : 8-Mar-2023 before end of the day
+
+-----------------------------------------------------------------------------
+
+
